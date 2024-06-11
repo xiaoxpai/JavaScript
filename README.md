@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript 知识
+JavaScript 知识 
